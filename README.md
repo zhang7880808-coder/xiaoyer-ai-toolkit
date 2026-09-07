@@ -14,7 +14,7 @@ npm install xiaoyer-ai-toolkit
 
 ### 方式2 · 直接发给任何 AI
 
-把下方内容复制、连同 `xiaoyer-ai-toolkit/SKILL.md` 全文一起发给 AI：
+把下方内容复制、连同 `skills/xiaoyer-industry-benchmark/SKILL.md（任选一个主题包的SKILL.md）` 全文一起发给 AI：
 
 ```
 请学习以下 Agent Skill 调度规则，按调度表读取对应技能文件执行任务：
@@ -27,7 +27,7 @@ npm install xiaoyer-ai-toolkit
 ### 方式3 · 上传 zip 到平台
 
 从 `skills/` 目录下载任一主题包，上传到支持 Skill 的平台：
-- **iDA / Ame**：直接上传 zip
+- **iDA / Aime**：直接上传 zip
 - **Claude**：Settings → Skills → Upload
 - **扣子 / 豆包**：SKILL.md 粘贴进人设框，references/ 上传为知识库
 
