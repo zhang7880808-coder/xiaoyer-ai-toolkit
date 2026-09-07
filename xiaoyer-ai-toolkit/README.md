@@ -1,6 +1,6 @@
 # 电商小二 AI 工具包
 
-面向抖音电商运营小二的 Agent Skills 合集：**5 个主题包、13 个场景技能**。符合 [agentskills.io](https://agentskills.io/specification) 规范。
+面向抖音电商运营小二的 Agent Skills 合集：**6 个主题包、15 个场景技能**。符合 [agentskills.io](https://agentskills.io/specification) 规范。
 
 ## 快速开始
 
@@ -10,7 +10,7 @@
 npm install xiaoyer-ai-toolkit
 ```
 
-装完后 `node_modules/xiaoyer-ai-toolkit/` 里有 `SKILL.md`（调度器）和 `references/`（13个技能文件），复制到你的 AI 工具的 skill 目录即可。
+装完后 `node_modules/xiaoyer-ai-toolkit/` 里有 `SKILL.md`（调度器）和 `references/`（15个技能文件），复制到你的 AI 工具的 skill 目录即可。
 
 ### 方式2 · 直接发给任何 AI
 
@@ -40,6 +40,7 @@ npm install xiaoyer-ai-toolkit
 | `skills/xiaoyer-hit-video-research` | 爆款样本筛选 · 视频逐秒拆解 · 共性验证 | 3 |
 | `skills/xiaoyer-product-card-clinic` | 商品卡五关断点诊断 · 动作排序与方案生成 | 2 |
 | `skills/xiaoyer-qianchuan-ads` | 千川术语速查 · 三病诊断 · 优化与止损线 | 3 |
+| `skills/xiaoyer-live-clinic` | 直播间断点诊断 · 体验分与违规治理 | 2 |
 
 npm 整合包：[npmjs.com/package/xiaoyer-ai-toolkit](https://www.npmjs.com/package/xiaoyer-ai-toolkit)
 
@@ -67,4 +68,4 @@ npm 整合包：[npmjs.com/package/xiaoyer-ai-toolkit](https://www.npmjs.com/pac
 - **渐进式加载**：SKILL.md 是调度器，重内容在 references/ 按需读取
 
 ---
-v1.0.0 · 作者：张琪 · [npm](https://www.npmjs.com/package/xiaoyer-ai-toolkit)
+v1.1.0 · 作者：张琪 · [npm](https://www.npmjs.com/package/xiaoyer-ai-toolkit)

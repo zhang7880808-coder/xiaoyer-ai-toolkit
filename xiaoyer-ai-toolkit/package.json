@@ -1,6 +1,6 @@
 {
   "name": "xiaoyer-ai-toolkit",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "description": "抖音电商运营小二 AI 工具包（13场景：行业分析/对标诊断/载体体检/卖点合规/转译测试/爆款三件套/商品卡诊断/方案生成/千川三件套），Claude Skill 兼容格式",
   "files": [
     "SKILL.md",
