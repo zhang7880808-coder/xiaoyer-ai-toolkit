@@ -44,4 +44,4 @@ npm: [npmjs.com/package/xiaoyer-ai-toolkit](https://www.npmjs.com/package/xiaoye
 反幻觉（数据从小二来，AI只当分析师）| 口径先行（基准三级链：同级中位→自身历史→定性）| 全程自动（问完配置零参与）| 止损文化（何时加码何时认输）| 建议三标签（成本/周期/可逆性）
 
 ---
-v1.2.0 · 作者：张琪 · [npm](https://www.npmjs.com/package/xiaoyer-ai-toolkit)
+作者：张琪 · 版本以 package.json 为准 · [npm](https://www.npmjs.com/package/xiaoyer-ai-toolkit)
